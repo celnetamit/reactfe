@@ -7,7 +7,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors(
-    {origin: 'http://localhost:5173'}
+    {origin: 'https://reactfe.panoptical.org:5173'}
 ));
 app.use(express.json());
 
