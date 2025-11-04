@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time AI-Powered LCA Dashboard",
+  "description": "An application designed to facilitate hands-on learning for students in sustainability. It handles real-time data input, uses AI for analysis and gap-filling, and provides an interactive, collaborative dashboard for visualizing environmental impacts.",
+  "requestFramePermissions": []
+}
